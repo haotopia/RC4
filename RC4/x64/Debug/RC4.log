@@ -1,0 +1,13 @@
+﻿  index.cpp
+c:\users\lflx1\code\cppcode\rc4\rc4\rc4\index.cpp(4): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+c:\users\lflx1\code\cppcode\rc4\rc4\rc4\controller\filecontroller.cpp(18): warning C4551: 缺少参数列表的函数调用
+c:\users\lflx1\code\cppcode\rc4\rc4\rc4\controller\filecontroller.cpp(23): warning C4267: “参数”: 从“size_t”转换到“const char”，可能丢失数据
+c:\users\lflx1\code\cppcode\rc4\rc4\rc4\index.cpp(5): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+c:\users\lflx1\code\cppcode\rc4\rc4\rc4\controller\rc4.cpp(19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  RC4.cpp
+c:\users\lflx1\code\cppcode\rc4\rc4\rc4\controller\filecontroller.cpp(18): warning C4551: 缺少参数列表的函数调用
+c:\users\lflx1\code\cppcode\rc4\rc4\rc4\controller\filecontroller.cpp(23): warning C4267: “参数”: 从“size_t”转换到“const char”，可能丢失数据
+c:\users\lflx1\code\cppcode\rc4\rc4\rc4\controller\rc4.cpp(19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  RC4.vcxproj -> C:\Users\lflx1\Code\cppCode\RC4\RC4\x64\Debug\RC4.exe
+  RC4.vcxproj -> C:\Users\lflx1\Code\cppCode\RC4\RC4\x64\Debug\RC4.pdb (Partial PDB)
